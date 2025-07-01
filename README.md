@@ -1,2 +1,1 @@
-# drgmod_CustomHitmarker
-Source code of the Custom Hitmarker mod.
+Source code of the Custom Hitmarker mod. Requires the Community Mod Kit.
